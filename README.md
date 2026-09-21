@@ -58,9 +58,6 @@ Two switches at the top of `src/sumo.py`:
 | `src/` | `sumo.py`, the competition code |
 | `tools/` | `arm_readout.py`, `turn_test.py`, `sensor_readout.py` bench programs |
 | `hardware/` | Parts list, port map, datasheet links |
-| `calibration/` | Optical and distance sensor readings |
-| `testing/` | Test log |
-| `cad/` | Onshape link, exports, screenshots |
 | `photos/` | Robot, team and build photos |
 | `videos/` | Links to test and match videos |
 | `notebook/` | Engineering notebook (PDF) |
